@@ -1,8 +1,6 @@
 
 
-Dunyodagi yetakchi texnologik kompaniyalarning muhandislik va texnologiya sohasidagi 100 ta mashhur bloglari ro'yxati.
-
-## Bloglar Ro‘yxati
+## Dunyodagi yetakchi texnologik kompaniyalarning muhandislik va texnologiya sohasidagi 100 ta mashhur bloglari ro'yxati.
 
 1. **Google Muhandislik Blogi**: [https://developers.googleblog.com/](https://developers.googleblog.com/)
 2. **Netflix Texnologiya Blogi**: [https://netflixtechblog.com/](https://netflixtechblog.com/)
