@@ -96,7 +96,7 @@
 92. **Giphy Muhandislik Blogi**: [https://engineering.giphy.com/](https://engineering.giphy.com/)
 93. **GoDaddy Muhandislik Blogi**: [https://www.godaddy.com/engineering](https://www.godaddy.com/engineering)
 94. **Mailchimp Muhandislik Blogi**: [https://mailchimp.com/developer/](https://mailchimp.com/developer/)
-95. **New Relic Blogi**: [https://blog.newrecloser**: [https://blog.newrelic.com/engineering/](https://blog.newrelic.com/engineering/)
+95. **New Relic Blogi**: [https://blog.newrelic.com/engineering/](https://blog.newrelic.com/engineering/)
 96. **Oracle Dasturchilar Blogi**: [https://blogs.oracle.com/developers/](https://blogs.oracle.com/developers/)
 97. **PagerDuty Muhandislik Blogi**: [https://www.pagerduty.com/blog/engineering/](https://www.pagerduty.com/blog/engineering/)
 98. **Palantir Blogi**: [https://www.palantir.com/blog/](https://www.palantir.com/blog/)
