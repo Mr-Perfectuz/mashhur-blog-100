@@ -1,4 +1,4 @@
-# Texnologik Bloglarni Kuzatish
+
 
 Dunyodagi yetakchi texnologik kompaniyalarning muhandislik va texnologiya sohasidagi 100 ta mashhur bloglari ro'yxati.
 
